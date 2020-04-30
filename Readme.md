@@ -74,7 +74,7 @@ Pertama sekali, jalankan terlebih dahulu script DSStream. Kemudian buka terminal
 Tinggal kalian ketikkan kata dan tekan enter.
 Secara otomatis data kalian akan tampil di DSStream.
 
-![Image of Yaktocat](images/Testing.png)
+![Image of Testing](images/Testing.png)
 
 
 ### Cara menggunakan DSStream.py punya saya
